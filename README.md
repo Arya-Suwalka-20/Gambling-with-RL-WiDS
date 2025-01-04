@@ -7,6 +7,7 @@ We'll be focusing on the basics of RL and essential Python programming skills, l
 Our main aim would be to get a general intro to RL and explore the fundamentals of Markov Decision Processes (MDPs), focusing on their structure, components, and role in modeling decision-making in reinforcement learning.
 
 ### Week 2 
+In this assignment, we'll use the simplest RL techniques - Policy and Value iteration to find the best policies (which maximize the discounted total reward) in our MDPs from last week.
 ### Week 3 
 ### Week 4 
 ### Week 5 
